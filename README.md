@@ -1,6 +1,6 @@
-# NickleCannon
+# Logax
 
-NickleCannon is an open-source Command and Control service. The primary use for NickleCannon is penetration testing.
+Logax is an open-source Command and Control service. The primary use for Logax is penetration testing.
 
 ## Branch Structure
 
@@ -23,7 +23,7 @@ Python: All variables, functions, and names must have underscores.
 
 ```
 def my_cool_function(some_param):
-	pass
+    pass
 ```
 
 All code also must meet `pep8` standards.
