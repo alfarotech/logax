@@ -1,2 +1,1 @@
-docker run nicklecannon/slave:dev
-
+docker run logax/slave:dev

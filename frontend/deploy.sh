@@ -1,3 +1,3 @@
 docker login
-docker build -t nicklecannon/frontend:$(cat version.txt) .
-docker push nicklecannon/frontend:$(cat version.txt)
+docker build -t logax/frontend:$(cat version.txt) .
+docker push logax/frontend:$(cat version.txt)

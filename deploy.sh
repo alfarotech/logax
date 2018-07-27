@@ -18,8 +18,8 @@ deploy() {
   docker push nicklecannon/$1:$tag
 
   if [ $branch == "master" ]; then
-    docker tag nicklecannon/$1:$tag nicklecannon/$1:latest
-    docker push nicklecannon/$1:latest
+    docker tag logax/$1:$tag logax/$1:latest
+    docker push logax/$1:latest
   fi
 
   cd ..

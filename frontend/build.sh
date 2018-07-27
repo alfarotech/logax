@@ -1,1 +1,1 @@
-docker build -t nicklecannon/frontend:dev .
+docker build -t logax/frontend:dev .

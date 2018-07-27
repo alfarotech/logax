@@ -1,6 +1,6 @@
 build() {
   cd $1
-  docker build -t nicklecannon/$1:$(cat version.txt) .
+  docker build -t logax/$1:$(cat version.txt) .
   cd ..
 }
 
