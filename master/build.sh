@@ -1,1 +1,1 @@
-docker build -t nicklecannon/master:dev .
+docker build -t logax/master:dev .

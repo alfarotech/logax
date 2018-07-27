@@ -1,3 +1,3 @@
 docker login
-docker build -t nicklecannon/master:$(cat version.txt) .
-docker push nicklecannon/master:$(cat version.txt)
+docker build -t logax/master:$(cat version.txt) .
+docker push logax/master:$(cat version.txt)

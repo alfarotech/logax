@@ -1,2 +1,1 @@
-docker build -t nicklecannon/slave:dev .
-
+docker build -t logax/slave:dev .

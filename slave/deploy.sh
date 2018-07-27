@@ -1,3 +1,3 @@
 docker login
-docker build -t nicklecannon/slave:$(cat version.txt) .
-docker push nicklecannon/slave:$(cat version.txt)
+docker build -t logax/slave:$(cat version.txt) .
+docker push logax/slave:$(cat version.txt)
